@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+python-multipart
+pypdf
+pdfplumber
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pytest
+python-dotenv

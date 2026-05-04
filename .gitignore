@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+vector_store/
+*.pkl
+*.joblib
+.DS_Store
+.pytest_cache/
+.streamlit/
