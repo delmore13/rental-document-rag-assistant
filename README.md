@@ -44,6 +44,30 @@ What are the tenant responsibilities?
 
 
 
+\## Screenshots
+
+
+
+\### Streamlit Dashboard
+
+
+
+!\[Streamlit Dashboard](screenshots/streamlit-dashboard.png)
+
+
+
+\### FastAPI Documentation
+
+
+
+!\[FastAPI Docs](screenshots/fastapi-docs.png)
+
+
+
+\---
+
+
+
 \## Features
 
 
